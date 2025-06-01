@@ -1,0 +1,30 @@
+.main {
+  height: 800px;background-color: blue;
+}
+
+
+.sidebar{
+  height: 800px;background-color: purple;
+}
+
+.content{
+  height: 800px;background-color: yellow;
+}
+.menu ul li{
+    color: white;
+    list-style: none;
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 25px;
+}
+
+.menu ul li:hover{background-color: grey; border-radius:5px ;
+}
+
+.card{
+  height:60px; width: 150px;background-color: burlywood;
+}
+
+.tablemy{
+  border: 1px solid black
+}
