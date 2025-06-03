@@ -31,7 +31,7 @@ export default function List() {
   return (
     <>
       <div className='col-md-10 content'>
-        <h1>List</h1>
+        <h1>List new deploy</h1>
         <table border="1">
           <thead>
             <tr>
